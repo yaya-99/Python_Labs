@@ -3,7 +3,7 @@ s = s.replace('-',' ')
 s= s.split()
 print(s)
 l= len(s)
-print(min(s))
+
 i=0
 a=['-']
 while i <l:
